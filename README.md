@@ -10,8 +10,8 @@ unzip and rename files to matrix.mtx, genes.tsv and barcodes.tsv
 Steps:
 1. Load and normalize 
 2. Add Meta
-3. Split conditions and re Integrate to cluster based on Cell types 
-4. Identify clusters based on annotation found in other www.ncbi.nlm.nih.gov/pubmed/31091459 (redo with original publication?)
+3. Split conditions and reintegrate to cluster based on Cell types 
+4. Identify clusters based on annotation found in  www.ncbi.nlm.nih.gov/pubmed/31091459 (redo with original publication?)
 5. Calculate cell type based differential expressions  
 
 
