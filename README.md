@@ -1,7 +1,7 @@
 # PlantSingle
 
 Initial notes and toy example of Seurat based plant root cell analysis based on public data.
-Download raw files from quantification and Meta data from
+Download raw files for quantification and Meta data from
 
 https://www.ebi.ac.uk/gxa/sc/experiments/E-GEOD-121619/downloads
 
